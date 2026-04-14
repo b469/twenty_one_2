@@ -1,0 +1,6 @@
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\Casino\bin\Debug\Casino.dll
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\Casino\bin\Debug\Casino.pdb
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\Casino\obj\Debug\Casino.dll
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\Casino\obj\Debug\Casino.pdb

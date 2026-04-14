@@ -1,0 +1,10 @@
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\twenty_one\obj\Debug\twenty_one.csproj.AssemblyReference.cache
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\twenty_one\obj\Debug\twenty_one.csproj.CoreCompileInputs.cache
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\twenty_one\bin\Debug\twenty_one.exe.config
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\twenty_one\bin\Debug\twenty_one.exe
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\twenty_one\bin\Debug\twenty_one.pdb
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\twenty_one\bin\Debug\Casino.dll
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\twenty_one\bin\Debug\Casino.pdb
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\twenty_one\obj\Debug\twenty_one.csproj.Up2Date
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\twenty_one\obj\Debug\twenty_one.exe
+C:\Users\owner\Basic_C#_Programs\Practice_My_Code\twenty_one\twenty_one\obj\Debug\twenty_one.pdb
